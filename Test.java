@@ -8,7 +8,7 @@ public class Test {
 	t1.average();
 	}
 void average() {
-
+//thiru
 int sum = 0, avg;      
 ArrayList<Integer> list = new ArrayList<Integer>();    
 
