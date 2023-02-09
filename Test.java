@@ -9,6 +9,7 @@ public class Test {
 	}
 void average() {
 //thiru
+//suriya
 int sum = 0, avg;      
 ArrayList<Integer> list = new ArrayList<Integer>();    
 
